@@ -3,6 +3,7 @@
 [](https://opensource.org/licenses/MIT)
 
 Ubah halaman web yang berantakan menjadi artikel yang bersih dan nyaman dibaca dengan satu klik. Ekstensi ini secara otomatis menghapus iklan, *sidebar*, *popup*, komentar, dan elemen mengganggu lainnya, menyajikan konten utama dalam mode baca yang fokus dan minimalis.
+
 ![alt text](https://github.com/Dzakiudin/Clean-Page-Reader/blob/main/public/before-after-comparison.jpg?raw=true)
 
 ## ✨ Fitur Utama
